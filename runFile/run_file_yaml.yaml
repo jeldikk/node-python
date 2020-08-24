@@ -1,0 +1,26 @@
+volunteer: 'jeldikk'
+ward: 23
+location: 'Chicago'
+
+meta:
+    total: 3
+    male: 2
+    female: 1
+
+    
+members:
+    - name: 'pullaiah'
+      father: 'yellaiah'
+      mother: 'yelamma'
+      memid: '23_1'
+    
+    - name: 'jigelu kumari'
+      father: 'jigelu raja'
+      mother: 'jigelu rani'
+      memid: '23_2'
+
+    - name: 'champak kumar'
+      father: 'champak raja'
+      mother: 'champak rani'
+      memid: '23_3'
+    
